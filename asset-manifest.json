@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/abiisnn/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/abiisnn/static/js/main.d1710d01.chunk.js",
+    "main.js.map": "/abiisnn/static/js/main.d1710d01.chunk.js.map",
+    "runtime-main.js": "/abiisnn/static/js/runtime-main.9ac1954d.js",
+    "runtime-main.js.map": "/abiisnn/static/js/runtime-main.9ac1954d.js.map",
+    "static/js/2.79da1b89.chunk.js": "/abiisnn/static/js/2.79da1b89.chunk.js",
+    "static/js/2.79da1b89.chunk.js.map": "/abiisnn/static/js/2.79da1b89.chunk.js.map",
+    "static/js/3.1051ca39.chunk.js": "/abiisnn/static/js/3.1051ca39.chunk.js",
+    "static/js/3.1051ca39.chunk.js.map": "/abiisnn/static/js/3.1051ca39.chunk.js.map",
+    "index.html": "/abiisnn/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/abiisnn/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.79da1b89.chunk.js.LICENSE.txt": "/abiisnn/static/js/2.79da1b89.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/abiisnn/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ac1954d.js",
+    "static/js/2.79da1b89.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d1710d01.chunk.js"
+  ]
+}
